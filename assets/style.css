@@ -1,0 +1,10 @@
+.has-error .control-label {
+    color: #333;
+}
+.has-error .help-block {
+    color: #737373;
+}
+.has-error .help-block.text-danger {
+    color: #a94442;
+}
+
