@@ -100,8 +100,8 @@ If they are not available in the repository, please let us know as the repositor
 
 == Copyright ==
 
-Honeylizard WordPress Theme, Copyright 2017 Honeylizard
-Honeylizard is distributed under the terms of the GNU GPL
+Honeylizard CodeIgniter Example, Copyright 2017 Honeylizard
+Honeylizard CodeIgniter Example is distributed under the terms of the GNU GPL
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -115,7 +115,8 @@ GNU General Public License for more details.
 
 == Third Party Resources ==
 
-Example Application bundles the following third-party resources:
+Honeylizard CodeIgniter Example Application bundles the 
+following third-party resources:
 
 Bootstrap
 Licenses: Creative Commons Attribution 3.0 Unported (CC BY 3.0)
