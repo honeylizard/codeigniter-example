@@ -1,20 +1,24 @@
-=== Example Application ===
+# Example Application
+
 Contributors: Lisa Bernhardt
 Requires at least: CodeIgniter 3.1.5
 Tested up to: CodeIgniter 3.1.5
 Version: 1.0
 License: GNU General Public License v2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+License URI: [http://www.gnu.org/licenses/gpl-2.0.html](http://www.gnu.org/licenses/gpl-2.0.html)
 
-== Description ==
+---
+
+## Description
 
 This is a example application that I am building in order to learn CodeIgniter.
 This project will not include the CodeIgniter standard files and CodeIgniter
 application directory areas that are not touched by this project.
 
-== Features ==
+## Features
 
 Includes the following features:
+
 * User Registration
 * User Authentication
 * User Sessions
@@ -23,7 +27,7 @@ Includes the following features:
 * A specific start page and navigation when a user is not logged into the application
 * A specific start page and navigation when a user logs into the application
 
-== Future Features on Roadmap ==
+## Future Features on Roadmap
 
 * User Ability to change their password while logged in
 * User Admin functionality where users can be soft deleted and restored. Admin user's action is logged.
@@ -32,7 +36,7 @@ Includes the following features:
 * Internal scripts that clean up database entries for soft deleted users
 * Add functionality for more robust translations for general page/email content (e.g. home pages, forgot password email)
 
-== Installation ==
+## Installation
 
 1. Install Codeigniter on your server
 2. Place code files from this project within the Codeigniter's location on your server.
@@ -50,7 +54,7 @@ Source: https://www.codeigniter.com/user_guide/libraries/email.html#sending-emai
 6b. $config['application_name'] - The name of the application
 6c. $config['default_email'] - The default email address used when sending out emails.
 
-== Important Files ==
+## Important Files
 
 The following files are included in this project.
 If they are not available in the repository, please let us know as the repository would need to be corrected.
@@ -98,7 +102,7 @@ If they are not available in the repository, please let us know as the repositor
 |   |   +-- bootstrap                   Contains the Bootstrap files
 |   |   +-- jquery                      Contains the JQuery files
 
-== Copyright ==
+## Copyright
 
 Honeylizard CodeIgniter Example, Copyright 2017 Honeylizard
 Honeylizard CodeIgniter Example is distributed under the terms of the GNU GPL
@@ -113,7 +117,7 @@ but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU General Public License for more details.
 
-== Third Party Resources ==
+## Third Party Resources
 
 Honeylizard CodeIgniter Example Application bundles the 
 following third-party resources:
@@ -126,9 +130,10 @@ Glyphicons, Jan Kovarik
 Licenses: Creative Commons Attribution 3.0 Unported (CC BY 3.0)
 Source: http://glyphicons.com/
 
-== Changelog ==
+## Changelog
 
-= 1.0 =
+### 1.0
+
 * Released: July 12, 2017
 
 Initial release
