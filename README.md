@@ -1,19 +1,17 @@
 # Example Application
 
-Contributors: Lisa Bernhardt
-Requires at least: CodeIgniter 3.1.5
-Tested up to: CodeIgniter 3.1.5
-Version: 1.0
-License: GNU General Public License v2 or later
+Contributors: Lisa Bernhardt  
+Requires at least: CodeIgniter 3.1.5  
+Tested up to: CodeIgniter 3.1.5  
+Version: 1.0  
+License: GNU General Public License v2 or later  
 License URI: [http://www.gnu.org/licenses/gpl-2.0.html](http://www.gnu.org/licenses/gpl-2.0.html)
 
 ---
 
 ## Description
 
-This is a example application that I am building in order to learn CodeIgniter.
-This project will not include the CodeIgniter standard files and CodeIgniter
-application directory areas that are not touched by this project.
+This is a example application that I am building in order to learn CodeIgniter. This project will not include the CodeIgniter standard files and CodeIgniter application directory areas that are not touched by this project.
 
 ## Features
 
@@ -44,21 +42,21 @@ Includes the following features:
 (e.g. assets/queries/create_user_tables.sql)
 4. Modify the application/config/database.php file to utilize the database and database user created in step 2.
 5. Modify the application/config/config.php file to utilize an email server. This is used for actions such as
-'Forgot Password'.
+'Forgot Password'.  
 5a. Until an email server is configured, the system dumps important information on the screen.
-Search for "TODO" comments and remove the relevant var_dump call(s).
+Search for "TODO" comments and remove the relevant var_dump call(s).  
 5b. More information on configuring Codeigniter's Email.
 Source: https://www.codeigniter.com/user_guide/libraries/email.html#sending-email
 6. Modify the application/config/config.php file in the following sections:
-6a. $config['base_url'] - The base URL for the application
-6b. $config['application_name'] - The name of the application
+6a. $config['base_url'] - The base URL for the application  
+6b. $config['application_name'] - The name of the application  
 6c. $config['default_email'] - The default email address used when sending out emails.
 
 ## Important Files
 
-The following files are included in this project.
-If they are not available in the repository, please let us know as the repository would need to be corrected.
+The following files are included in this project. If they are not available in the repository, please let us know as the repository would need to be corrected.
 
+```
 .
 +-- application
 |   +-- config
@@ -101,39 +99,34 @@ If they are not available in the repository, please let us know as the repositor
 |   +-- third_party
 |   |   +-- bootstrap                   Contains the Bootstrap files
 |   |   +-- jquery                      Contains the JQuery files
+```
 
 ## Copyright
 
-Honeylizard CodeIgniter Example, Copyright 2017 Honeylizard
+Honeylizard CodeIgniter Example, Copyright 2017 Honeylizard  
 Honeylizard CodeIgniter Example is distributed under the terms of the GNU GPL
 
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 2 of the License, or
-(at your option) any later version.
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 2 of the License, or (at your option) any later version.
 
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-GNU General Public License for more details.
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
 ## Third Party Resources
 
-Honeylizard CodeIgniter Example Application bundles the 
-following third-party resources:
+Honeylizard CodeIgniter Example Application bundles the following third-party resources:
 
-Bootstrap
-Licenses: Creative Commons Attribution 3.0 Unported (CC BY 3.0)
+Bootstrap  
+Licenses: Creative Commons Attribution 3.0 Unported (CC BY 3.0)  
 Source: http://getbootstrap.com/
 
-Glyphicons, Jan Kovarik
-Licenses: Creative Commons Attribution 3.0 Unported (CC BY 3.0)
+Glyphicons, Jan Kovarik  
+Licenses: Creative Commons Attribution 3.0 Unported (CC BY 3.0)  
 Source: http://glyphicons.com/
 
 ## Changelog
 
 ### 1.0
 
+* Initial release
 * Released: July 12, 2017
 
-Initial release
+
